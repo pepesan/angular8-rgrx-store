@@ -1,6 +1,7 @@
 # Angular8RgrxStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+Y siguiendo la guía de [https://ngrx.io/guide/store]
 
 ## Development server
 
